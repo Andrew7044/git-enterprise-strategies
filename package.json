@@ -1,6 +1,10 @@
 {
   "name": "my-app",
+<<<<<<< HEAD
   "version": "1.0.1",
+=======
+  "version": "1.0.0",
+>>>>>>> 542b4ee2579cdf64137b75ca8fa7f319300f2836
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
